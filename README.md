@@ -1,23 +1,23 @@
-# Hi Developer, I'm <a href="https://vijayphoenix.github.io/">Vijay</a><img src="https://raw.githubusercontent.com/vijayphoenix/vijayphoenix/master/gifs/Hi.gif" width="36px">
+# Hi Developer, I'm <a href="https://vijayphoenix.github.io/">Vijay</a><img src="gifs/Hi.gif" width="36px">
 
 <p float="left">
 <a href="https://www.linkedin.com/in/vijaytadikamalla" title="Linkedin">
-    <img src="https://raw.githubusercontent.com/vijayphoenix/vijayphoenix/master/logos/linkedin.png" width="36px"/>
+    <img src="logos/linkedin.png" width="36px"/>
 </a>
 <a href="https://github.com/vijayphoenix" title="GitHub">
-    <img src="https://raw.githubusercontent.com/vijayphoenix/vijayphoenix/master/logos/github.png" width="36px"/>
+    <img src="logos/github.png" width="36px"/>
 </a>
 <a href="https://vijayphoenix.github.io" title="Personal Website">
-    <img src="https://raw.githubusercontent.com/vijayphoenix/vijayphoenix/master/logos/code1.png" width="36px"/>
+    <img src="logos/code1.png" width="36px"/>
 </a>
 <a href="mailto:cs17btech11040@iith.ac.in" title="E-mail">
-    <img src="https://raw.githubusercontent.com/vijayphoenix/vijayphoenix/master/logos/google-plus.png" width="36px"/>
+    <img src="logos/google-plus.png" width="36px"/>
 </a>
 <a href="https://www.facebook.com/vijay.tadikamalla/" title="Facebook">
-    <img src="https://raw.githubusercontent.com/vijayphoenix/vijayphoenix/master/logos/facebook.png" width="36px"/>
+    <img src="logos/facebook.png" width="36px"/>
 </a>
 <a href="https://twitter.com/vijayphoenix1" title="Twitter">
-    <img src="https://raw.githubusercontent.com/vijayphoenix/vijayphoenix/master/logos/twitter.png" width="36px"/>
+    <img src="logos/twitter.png" width="36px"/>
 </a>
 </p>
 
