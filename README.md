@@ -1,74 +1,98 @@
-# Hi Developer, I'm <a href="https://vijayphoenix.github.io/">Vijay</a><img src="gifs/Hi.gif" width="36px">
+<!-- Resources -->
 
-<p float="left">
-<a href="https://www.linkedin.com/in/vijaytadikamalla" title="Linkedin">
-    <img src="logos/linkedin.png" width="36px"/>
-</a>
-<a href="https://github.com/vijayphoenix" title="GitHub">
-    <img src="logos/github.png" width="36px"/>
-</a>
-<a href="https://vijayphoenix.github.io" title="Personal Website">
-    <img src="logos/code1.png" width="36px"/>
-</a>
-<a href="mailto:cs17btech11040@iith.ac.in" title="E-mail">
-    <img src="logos/google-plus.png" width="36px"/>
-</a>
-<a href="https://www.facebook.com/vijay.tadikamalla/" title="Facebook">
-    <img src="logos/facebook.png" width="36px"/>
-</a>
-<a href="https://twitter.com/vijayphoenix1" title="Twitter">
-    <img src="logos/twitter.png" width="36px"/>
-</a>
-</p>
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!-- https://simpleicons.org/ -->
+<!-- https://shields.io/ -->
+
+
+# Hi Developer, I'm <a href="https://vijayphoenix.github.io/">Vijay</a> 👋🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-vijaytadikamalla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vijaytadikamalla/)](https://www.linkedin.com/in/vijaytadikamalla/ "Connect on LinkedIn")
+[![GitHub Badge](https://img.shields.io/badge/-vijayphoenix-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/vijayphoenix)](https://github.com/vijayphoenix/ "Follow on GitHub")
+[![CodeChef Badge](https://img.shields.io/badge/-vijayphoenix-5b4638?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/vijayphoenix/)](https://www.codechef.com/users/vijayphoenix/ "Visit CodeChef profile")
+[![Twitter Badge](https://img.shields.io/badge/-vijayphoenix1-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=vijayphoenix1)](https://twitter.com/intent/follow?screen_name=vijayphoenix1 "Follow on Twitter")
+[![Gmail Badge](https://img.shields.io/badge/-vijay.tadik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vijay.tadik@gmail.com)](mailto:vijay.tadik@gmail.com "Connect via Email")
+<!-- [![Website Badge](https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=CodersRank&logoColor=white&link=https://vijayphoenix.github.io/)](https://vijayphoenix.github.io/ "Visit my website") -->
 
 ## $ whoami
 
 <details>
-<summary>Student at <a href="https://iith.ac.in/">IIT Hyderabad</a> 👨‍🎓</summary>
+<summary>Data & Applied Scientist at <a href="https://www.bing.com/">Microsoft Bing</a> 👨‍🔬</summary>
 <ul>
-  <li>Final year, B. Tech (2017- exp 2021).</li>
-  <li>Majoring in Computer Science and Engineering.</li>
+  <li>Working with Search Technology Centre India (STCI) team.</li>
 </ul>
 </details>
 
-Visit my personal [website](https://vijayphoenix.github.io) and read my [blogs](https://vijayphoenix.github.io/blog) to know more about me.
+<details>
+<summary>CSE, <a href="https://iith.ac.in/">IIT Hyderabad</a> undergrad 👨‍🎓</summary>
+<ul>
+  <li>Bachelor of Technology in Computer Science. (2017 - 2021)</li>
+  <li>CGPA: 9.23</li>
+</ul>
+</details>
+
+Visit my [website](https://vijayphoenix.github.io), [blog](https://vijayphoenix.github.io/blog) to know more about me.
 
 ## Hobbies
 
-* Binge-watching TV series and animes 👀
-* Eating and complaining about getting fat 🤷‍♂️
-* Gaming (CSGO ❤️)
+* Binge-watching animes and TV series 👀
+* Foodie (Maggi ❤️)
+* CSGO ![CSGO](https://img.shields.io/badge/-000000?logo=counter-strike&logoColor=white)
 * Opensource 👨‍💻
 
-## Work Experience
+## Previous Work Experience
 
 <details>
-<summary>Former Data Scientist Intern, Microsoft</summary>
+<summary>GSoC '21 Mentor, <a href="https://summerofcode.withgoogle.com/organizations/6035208098283520/">TensorFlow</a></summary>
 <ul>
-    <li>Added an Optical Character Recognition (OCR) feature into the new Edge browser's PDF viewer.</li>
+  <li>Mentored a student on the Community Datasets project in TensorFlow Datasets (TFDS) library</li>
 </ul>
 </details>
+
 <details>
-<summary>GSoC-20 <a href="https://summerofcode.withgoogle.com/organizations/5907771876179968/">Tensorflow</a> and GSoC-19 <a href="https://summerofcode.withgoogle.com/archive/2019/organizations/6049761981890560/">Haskell</a></summary>
+<summary>Data Scientist Intern, Microsoft</summary>
 <ul>
-    <li>Worked on <a href="https://summerofcode.withgoogle.com/projects/#4608877833748480" target="_blank">Tensorflow Datasets</a> library with Tensorflow Organisation.</li>
+    <li>Added an Optical Character Recognition (OCR) feature into the Chromium based Edge browser's PDF viewer.</li>
+</ul>
+</details>
+
+<details>
+<summary>GSoC '20 Student, <a href="https://summerofcode.withgoogle.com/archive/2020/organizations/5569649606918144/">Tensorflow</a></summary>
+<ul>
+    <li>Worked on <a href="https://summerofcode.withgoogle.com/archive/2020/projects/5736415268175872/" target="_blank">Tensorflow Datasets</a> library with Tensorflow Organisation.</li>
+</ul>
+</details>
+
+<details>
+<summary>GSoC '19 Student, <a href="https://summerofcode.withgoogle.com/archive/2019/organizations/6049761981890560/">Haskell</a></summary>
+<ul>
     <li>Worked on <a href="https://summerofcode.withgoogle.com/archive/2019/projects/5677076210778112/" target="_blank">HsYAML</a> library with Haskell Organisation.</li>
 </ul>
 </details>
 
+
 ## Languages, Tools and Technologies
 
-<p float="left">
-<img width="36px" title="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img width="36px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img width="36px" title="Haskell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png">
-<img width="36px" title="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
-<img width="36px" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img width="36px" title="Jupyter notebook" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-<img width="36px" title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-<img width="36px" title="Windows" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png">
-<img width="36px" title="Tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
-<img width="36px" title="Scikit-learn" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=Haskell)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=vijayphoenix&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/vijayphoenix/)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Window](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayphoenix&theme=default&show_icons=true&count_private=true&include_all_commits=true)
